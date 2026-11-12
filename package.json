@@ -1,0 +1,7 @@
+{
+  "name": "walletnet",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "bun server.ts", "start": "bun server.ts" },
+  "dependencies": { "tradjs": "4.2.0" }
+}
